@@ -7,4 +7,6 @@ First install the package, create an account and then authenticate.
 
 Unzip data.zip into the same folder.
 
-If you want to try out the storage code, run store_omdena.py
+If you want to try out the storage code, change the path of ds.store() and run "python store_omdena.py", 
+
+For loading the dataset, run "python load_omdena.py"
